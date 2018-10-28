@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oyster.LoRaWAN", "Oyster.LoRaWAN\Oyster.LoRaWAN.csproj", "{AC7C5B3E-15AD-426B-AA1C-0A39A5E28A03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oyster.LoRaWAN.Test", "Oyster.LoRaWAN.Test\Oyster.LoRaWAN.Test.csproj", "{5AFA16A0-743A-4FC4-9C1D-3BD21311031A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AC7C5B3E-15AD-426B-AA1C-0A39A5E28A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC7C5B3E-15AD-426B-AA1C-0A39A5E28A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC7C5B3E-15AD-426B-AA1C-0A39A5E28A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFA16A0-743A-4FC4-9C1D-3BD21311031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFA16A0-743A-4FC4-9C1D-3BD21311031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFA16A0-743A-4FC4-9C1D-3BD21311031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFA16A0-743A-4FC4-9C1D-3BD21311031A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
